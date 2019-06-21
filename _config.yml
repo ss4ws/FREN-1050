@@ -16,7 +16,7 @@
 title: FREN 1050
 description: A documentation site for students
 baseurl: "/FREN-1050/" # the subpath of your site, e.g. /blog
-url: "https://ss4ws.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://ss4ws.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 
 permalink: pretty
 exclude: ["node_modules/", "*.gemspec", "*.gem", "Gemfile", "Gemfile.lock", "package.json", "package-lock.json",  "script/", "LICENSE.txt", "lib/", "bin/", "README.md", "Rakefile"]

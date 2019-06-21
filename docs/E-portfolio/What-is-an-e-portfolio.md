@@ -23,11 +23,11 @@ An e-portfolio is your personal learning space. Overtime, it will include eviden
 Your e-portfolio is a collection of files you will generate during your learning experience. At the end of the semester it will include text, images, video, audio, links etc). 
 
 ## A Non-linear hypertext 
-Think of it as a patchwork  can be read/navigated from any point of entry and .
+Your e-portfolio can be read/navigated from any point of entry.
 
 ## Integrated
 Its pieces of evidence are interrelated and connected.
 
 ## A space of reflection 
-In your e-portfolio you will have the opportunity to reflect on your learning and yourself as a learner. This meta-cognitive exercice 
+In your e-portfolio you will have the opportunity to reflect on your learning and yourself as a learner.  
 
