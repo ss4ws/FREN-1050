@@ -15,7 +15,7 @@
 # in the templates via {{ site.myvariable }}.
 title: FREN 1050
 description: A documentation site for students
-baseurl: "/FREN-1050/" # the subpath of your site, e.g. /blog
+baseurl: "/FREN-1050" # the subpath of your site, e.g. /blog
 url: "https://ss4ws.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 
 permalink: pretty
