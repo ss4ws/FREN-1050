@@ -3,6 +3,7 @@ layout: default
 title: Course Description
 parent: Syllabus
 nav_order: 1
+permalink: /docs/Syllabus/1-Course-Description
 ---
 
 # Course description

@@ -3,6 +3,7 @@ layout: default
 title: Components 
 nav_order: 2
 parent: E-portfolio
+permalink: /docs/E-portfolio/2-Components
 ---
 
 # Components 
@@ -48,13 +49,18 @@ Thèmes choisis par votre professeur
 - Réflexion finale (Publiée avant le dernier jour de classe.)
 
 
-## F. Ecriture
-- Compositions 1 & 2  
-  - 2 ébauches 
-  - 2 (versions finales)
-  - [Deux réflexions](https://app.simplenote.com/publish/LtZD0m)
+## F. Compositions (Travaux d'écriture)
+- [Compositions 1]() 
+  - 1 ébauche 
+  - 1 (version finale)
+  - [1 Réflexion](https://app.simplenote.com/publish/LtZD0m)
 
-- Troisième composition
+- [Compositions 2]() 
+  - 1 ébauche 
+  - 1 (version finale)
+  - [1 Réflexion](https://app.simplenote.com/publish/LtZD0m)
+
+- [Troisième composition]()
 
 ## G. Commentaires
 You will read and comment entries of your classmates e-portfolios. 

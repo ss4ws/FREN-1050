@@ -3,6 +3,7 @@ layout: default
 title: Useful Advice 
 parent: Syllabus
 nav_order: 3
+permalink: /docs/Syllabus/3-Useful-Advice
 ---
 
 # Some useful advice 

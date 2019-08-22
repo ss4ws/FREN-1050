@@ -3,7 +3,7 @@ layout: default
 title: Objectives
 parent: Syllabus
 nav_order: 2
-permalink: /docs/Syllabus
+permalink: /docs/Syllabus/2-Objectives
 ---
 
 # What you’ll learn along the way

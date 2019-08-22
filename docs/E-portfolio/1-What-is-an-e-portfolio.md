@@ -3,6 +3,7 @@ layout: default
 title: What is an e-portfolio? 
 parent: E-portfolio
 nav_order: 1
+permalink: /docs/E-portfolio/1-What-is-an-e-portfolio
 ---
 
 # What is an e-portfolio?
