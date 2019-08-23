@@ -7,11 +7,8 @@ permalink: /docs/
 ---
 
 # A.R.T. 
-
-# A.R.T. 
-
+ 
 Each session will begin with two quiet minutes and will end with another two minutes for a micro-reflection and completion of [the form A.R.T (Attention and Reflection Tracker)](https://forms.gle/KFt9tPGbD36RL3mF9). 
-
 {: .fs-6 .fw-300 }
 
 
